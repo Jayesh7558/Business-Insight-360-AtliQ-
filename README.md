@@ -1,37 +1,27 @@
-# 📊 Business Insight 360: Brick Mortar and E-Commerce [Power BI | MySQL | Excel | DAX Studio]
+# Business Insight 360: Brick Mortar and E-Commerce
 
-![BI 360 Thumbnail](bi_360_thumbnail.png)
+![Business Insight 360 Thumbnail](./business_insight_360_thumbnail.png)
 
-## 🔍 Project Overview
+A comprehensive Power BI dashboard to analyze finance, supply chain, and executive KPIs for AtliQ retail channels (Brick & Mortar and E-Commerce).
 
-Developed a multi-layered Power BI dashboard for **AtliQ Industries**, integrating finance, supply chain, and executive KPIs. The goal was to improve business efficiency and accelerate data-driven decisions.
-
----
-
-## 🚀 Tools & Technologies Used
+## 🔧 Tools Used
 - Power BI
 - MySQL
 - Excel
 - DAX Studio
 
----
+## 📊 Key Highlights
+- Processed 1.8M+ records from SQL and Excel
+- Created finance, supply chain, and customer segmentation views
+- Used DAX Studio for performance optimization
 
-## 📈 Project Highlights
-- Integrated **1.8 million+ records** from MySQL and Excel into Power BI
-- Built role-specific views for finance, supply chain, and C-suite leadership
-- Used DAX Studio to **optimize performance and visual load times**
-- Enabled **10–20% improvements** in business process efficiency and decision-making
-- Segmented customers by profitability to boost **retention and acquisition**
-
----
-
-## 📎 Files Included
-- `BI_360_AtliQ_Presentation.pptx` – Executive summary deck
-- `bi_360_thumbnail.png` – Project thumbnail image
+## 📁 Files Included
+| File Name                              | Description                                       |
+|----------------------------------------|---------------------------------------------------|
+| `Business_Insight_360_PPT.pptx`        | Presentation explaining project overview          |
+| `business_insight_360_thumbnail.png`   | Thumbnail cover image for GitHub preview          |
 
 ---
 
-## 👨‍💼 Contact
-**Jayesh Talele**  
-🔗 [LinkedIn](https://www.linkedin.com/in/jayesh-talele-8430b7209/)  
-🔗 [GitHub](https://github.com/Jayesh7558)
+**Author**: Jayesh Talele  
+**Date**: April 2024
